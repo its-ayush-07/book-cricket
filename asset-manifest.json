@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/book-cricket/static/css/main.abd98f4d.chunk.css",
+    "main.js": "/book-cricket/static/js/main.62a65ea8.chunk.js",
+    "main.js.map": "/book-cricket/static/js/main.62a65ea8.chunk.js.map",
+    "runtime-main.js": "/book-cricket/static/js/runtime-main.3583c6b6.js",
+    "runtime-main.js.map": "/book-cricket/static/js/runtime-main.3583c6b6.js.map",
+    "static/js/2.b86f321d.chunk.js": "/book-cricket/static/js/2.b86f321d.chunk.js",
+    "static/js/2.b86f321d.chunk.js.map": "/book-cricket/static/js/2.b86f321d.chunk.js.map",
+    "static/js/3.7406aad5.chunk.js": "/book-cricket/static/js/3.7406aad5.chunk.js",
+    "static/js/3.7406aad5.chunk.js.map": "/book-cricket/static/js/3.7406aad5.chunk.js.map",
+    "index.html": "/book-cricket/index.html",
+    "static/css/main.abd98f4d.chunk.css.map": "/book-cricket/static/css/main.abd98f4d.chunk.css.map",
+    "static/js/2.b86f321d.chunk.js.LICENSE.txt": "/book-cricket/static/js/2.b86f321d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3583c6b6.js",
+    "static/js/2.b86f321d.chunk.js",
+    "static/css/main.abd98f4d.chunk.css",
+    "static/js/main.62a65ea8.chunk.js"
+  ]
+}
